@@ -20,6 +20,3 @@
 <p><?php echo $value['status']; ?></p>
 <p><?php echo $value['price']; ?></p><br><br>
 <?php endforeach; ?>
-
-
-
